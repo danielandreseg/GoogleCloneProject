@@ -1,3 +1,3 @@
-Curso Práctico de HTML y CSS.
+Curso Práctico de HTML y CSS con el profesor Diego de Granda, Google Developer, en Platzi.
 Proyecto final: creación de un clón de GoogleP
-Link al proyecto final aquí https://fisiohacker.github.io/GoogleCloneProject/
+https://fisiohacker.github.io/GoogleCloneProject/

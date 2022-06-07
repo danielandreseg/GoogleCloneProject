@@ -1,1 +1,1 @@
-Google Clone: https://deanielandreseg.github.io/GoogleCloneProject/
+Google Clone: https://danielandreseg.github.io/GoogleCloneProject/
